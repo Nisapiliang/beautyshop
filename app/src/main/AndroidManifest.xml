@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Login">
         <activity
+            android:name=".tampilankeempat"
+            android:exported="true" />
+        <activity
+            android:name=".tampilanketiga"
+            android:exported="true" />
+        <activity
+            android:name=".tampilankedua"
+            android:exported="true" />
+        <activity
+            android:name=".Logobeautyshop"
+            android:exported="true" />
+        <activity
             android:name=".android19"
             android:exported="true" />
         <activity
