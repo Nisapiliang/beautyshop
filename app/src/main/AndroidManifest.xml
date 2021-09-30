@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Login">
         <activity
+            android:name=".Pusatbantuan"
+            android:exported="true" />
+        <activity
+            android:name=".Kebijakan"
+            android:exported="true" />
+        <activity
+            android:name=".Pengiriman"
+            android:exported="true" />
+        <activity
+            android:name=".Pembayaran"
+            android:exported="true" />
+        <activity
             android:name=".android19"
             android:exported="true" />
         <activity
